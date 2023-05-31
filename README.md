@@ -1,2 +1,2 @@
-patika.dev - Kodluyoruz.org
-Java101 Patika Solutions & Lessons
+# patika.dev - Kodluyoruz.org
+# Java101 Patika Solutions & Lessons
